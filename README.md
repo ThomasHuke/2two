@@ -5,6 +5,7 @@
 使用编程语言
 
 - **GO**
+- **Dart**
 - **JS**
 - **HTML5**
 - **CSS3**
@@ -27,6 +28,8 @@
 - docker
 - Protocol Buffer
 - markdown
+- VUE
+- Flutter
 ---
 ☕️ 如何真的对你有帮助，你可以请我喝杯咖啡，多谢多谢
 
