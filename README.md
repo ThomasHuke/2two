@@ -9,21 +9,24 @@
 - **HTML5**
 - **CSS3**
 - **SQL**
+- **ShellScript**
 ***
 使用技术
-
 - micro
 - gin
 - mysql
 - redis
-- rpc
+- gRPC
 - gob
+- proto buffer
 - json
 - bootstrap
-- docker
 - nginx
 - websocket
-
+- K8S
+- docker
+- Protocol Buffer
+- markdown
 ---
 ☕️ 如何真的对你有帮助，你可以请我喝杯咖啡，多谢多谢
 
